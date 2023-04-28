@@ -1,11 +1,11 @@
-@media screen and(max-width:740px) {
+/* @media screen and(max-width:740px) {
     .project-container {
         max-width: 90px;
         margin: auto;
-        /* display: grid; */
+        display: grid;
         grid-template-columns: 1fr;
 
     }
 
     
-}
+} */
