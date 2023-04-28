@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Work.css"
 import "./WorkCard.css"
 import WorkCard from './WorkCard'
 import WorkCardData from './WorkCardData'
@@ -25,4 +26,4 @@ const Work = () => {
   )
 }
 
-export default Work
+export default Work;

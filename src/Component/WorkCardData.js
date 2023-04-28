@@ -22,25 +22,25 @@ const ProjectCardData = [
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
         view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
     },
-    {
-        imgsrc: pro3,
-        title: "Rymo Ecommerce Design",
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
-        view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
-    },
+    // {
+    //     imgsrc: pro3,
+    //     title: "Rymo Ecommerce Design",
+    //     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
+    //     view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
+    // },
 
-    {
-        imgsrc: pro3,
-        title: "Rymo Ecommerce Design",
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
-        view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
-    },
-    {
-        imgsrc: pro3,
-        title: "Rymo Ecommerce Design",
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
-        view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
-    },
+    // {
+    //     imgsrc: pro3,
+    //     title: "Rymo Ecommerce Design",
+    //     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
+    //     view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
+    // },
+    // {
+    //     imgsrc: pro3,
+    //     title: "Rymo Ecommerce Design",
+    //     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, minima deserunt quam inventore ipsum nulla facere. Nesciunt maiores, nostrum expedita voluptas accusamus, soluta quasi voluptatem consectetur quibusdam accusantium beatae magnam.",
+    //     view: "https://www.youtube.com/watch?v=QghqHw_vWzQ",
+    // },
 ];
 
 export default ProjectCardData;
